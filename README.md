@@ -36,7 +36,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Medeiros20/screenmatch.git
+git clone https://github.com/Dev-Joao-Medeiros/screenmatch.git
 
 # Acesse a pasta do projeto
 cd screenmatch
